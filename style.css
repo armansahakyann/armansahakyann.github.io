@@ -665,5 +665,7 @@ h5 {
     body {
         background-image: none;
     }
-
+      .search-container{
+      display:none;
+   }
 }
